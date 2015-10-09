@@ -10,12 +10,12 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
+    name: Ondrej Platek
     # url:  http://example.com/
     company:
-        name: Famous Inc.
+        name: Ufal Mff Cuni CZ
         # url:  http://example.com/
 
-fork_url: https://github.com/shower/shower
+fork_url: https://github.com/oplatek/test-slides
 progress: true
 line_numbers: true
